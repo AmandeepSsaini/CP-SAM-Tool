@@ -1,0 +1,5 @@
+﻿Factors,Weights,Value (Normal),Weighted
+Generator Availability,0.034,0.9,0.0306
+Number of operation to move to next state,0.083,0.25,0.02075
+Matrix Redundancy,0.096,0.897,0.086112
+Power System Measurement,0.164,1,0.164

@@ -1,0 +1,7 @@
+﻿Factors,Weights,Value(Normal),Weighted
+Path Length,0.074,1.16667,0.086333
+Exploitability,0.114,0.54,0.06156
+Vulnerability Ratio,0.6,120000,0.0882
+Device Confidence,1,90000,0.058
+Network Flow,0.042,1,0.042
+Vulnerability Status,0.188,1,0.188
